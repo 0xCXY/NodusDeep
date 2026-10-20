@@ -204,13 +204,11 @@ What exists today:
 - [ ] Verification layer
 - [ ] Settlement layer
 
-We would rather state this plainly than ship a roadmap dressed up as a product.
-
 ---
 
 ## Getting involved
 
-NodusDeep is noncommercial open source. If you want to work on distributed inference, MoE serving,
+NodusDeep is a noncommercial project. If you want to work on distributed inference, MoE serving,
 verifiable computation, or incentive design, this is the kind of problem where one more pair of
 hands changes the timeline.
 
@@ -229,12 +227,7 @@ The full source is available and may be read, studied, modified, and redistribut
 noncommercial purpose — including personal research, hobby projects, education, public research
 institutions, charities, and government use.
 
-**Commercial use is not permitted.** If you want to use NodusDeep commercially, you need a separate
-written license.
-
-> A note on terminology: because it restricts commercial use, this license is not OSI-approved
-> "open source" in the strict sense. The accurate description is **source-available,
-> noncommercial**. We state this so nobody discovers it later and feels misled.
+**Commercial use is not permitted.** For commercial licensing, get in touch.
 
 ---
 
